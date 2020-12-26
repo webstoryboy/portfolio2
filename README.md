@@ -6,4 +6,4 @@
 김용태 : https://webstoryboy.github.io/portfolio2/portfolio04/index.html <br>
 이아람 : https://webstoryboy.github.io/portfolio2/portfolio05/index.html <br>
 백은지 : https://webstoryboy.github.io/portfolio2/portfolio06/index10.html <br>
-   
+김가윤 : https://webstoryboy.github.io/portfolio2/portfolio07/index10.html <br>
