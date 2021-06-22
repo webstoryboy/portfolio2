@@ -23,3 +23,4 @@
 김혜수 : https://webstoryboy.github.io/portfolio2/portfolio22/index.html <br>
 박경민 : https://webstoryboy.github.io/portfolio2/portfolio23/index.html <br>
 김은진 : https://webstoryboy.github.io/portfolio2/portfolio24/index.html <br>
+이성령 : https://webstoryboy.github.io/portfolio2/portfolio25/index.html <br>
